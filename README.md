@@ -1,4 +1,8 @@
-# Resume to Cover Letter Generator
+# Re## Live Demo
+
+![App Interface](screenshots/app-interface.png)
+
+*Professional interface showing Hugging Face API integration, smart upload guidance, and comprehensive feature set*to Cover Letter Generator
 
 A free, locally-running Streamlit app that converts your resume into tailored cover letters using open-source AI models.
 
