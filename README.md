@@ -1,25 +1,21 @@
-# Re## Live Demo
-
-![App Interface](screenshots/app-interface.png)
-
-*Professional interface showing Hugging Face API integration, smart upload guidance, and comprehensive feature set*to Cover Letter Generator
+# Resume to Cover Letter Generator
 
 A free, locally-running Streamlit app that converts your resume into tailored cover letters using open-source AI models.
 
-## 🎯 Live Demo
+## Live Demo
 
-![App Interface](screenshots/screenshot-app-interface.png)
+![App Interface](screenshots/app-interface.png)
 
-*The app running with Hugging Face API integration and smart user guidance*
+*Professional interface showing Hugging Face API integration, smart upload guidance, and comprehensive feature set*
 
 ## Features
 
-- 📄 **Multiple Resume Formats**: Upload PDF, DOCX, or TXT files
-- 🎯 **Smart Matching**: Analyzes job descriptions for keyword optimization
-- 🤖 **Free AI**: Uses Hugging Face's free API with open-source models
-- ✏️ **Editable Output**: Tweak generated letters before export
-- 📎 **Export Options**: Download as .docx or copy to clipboard
-- 🔍 **Smart Analysis**: Identifies missing keywords and potential gaps
+- **Multiple Resume Formats**: Upload PDF, DOCX, or TXT files
+- **Smart Matching**: Analyzes job descriptions for keyword optimization
+- **Free AI**: Uses Hugging Face's free API with open-source models
+- **Editable Output**: Tweak generated letters before export
+- **Export Options**: Download as .docx or copy to clipboard
+- **Smart Analysis**: Identifies missing keywords and potential gaps
 
 ## Quick Start
 
@@ -58,7 +54,7 @@ streamlit run app.py
 1. **Upload Resume**: Drag & drop or browse for your resume file
 2. **Paste Job Description**: Copy the full job posting text
 3. **Fill Details** (optional): Company name, role, hiring manager
-4. **Generate**: Click the magic button ✨
+4. **Generate**: Click the generate button
 5. **Edit & Export**: Make tweaks and download as .docx
 
 ## Free API Options
@@ -101,4 +97,4 @@ MIT License - feel free to use and modify!
 
 ---
 
-🚀 **Ready to land your dream job?** Upload your resume and start generating tailored cover letters!
+**Ready to land your dream job?** Upload your resume and start generating tailored cover letters!
