@@ -2,6 +2,12 @@
 
 A free, locally-running Streamlit app that converts your resume into tailored cover letters using open-source AI models.
 
+## 🎯 Live Demo
+
+![App Interface](screenshots/screenshot-app-interface.png)
+
+*The app running with Hugging Face API integration and smart user guidance*
+
 ## Features
 
 - 📄 **Multiple Resume Formats**: Upload PDF, DOCX, or TXT files
